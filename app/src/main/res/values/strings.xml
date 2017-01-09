@@ -1,0 +1,11 @@
+<resources>
+    <!--Google api key-->
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyAWMImGRrbc5vsf8G2NSwRLje6yGJhE8Lw</string>
+
+    <string name="app_name">EndoMingo</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+</resources>
